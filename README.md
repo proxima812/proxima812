@@ -22,7 +22,7 @@
 [![idel-almaty.kz](https://img.shields.io/badge/idel--almaty.kz-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://idel-almaty.kz/)
 
 ## TAT/BASH/KRIM projects (my hobby)
-[![tatars.pages.dev](https://img.shields.io/badge/tatars.pages.dev-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://tatars.pages.dev)
+[![tatarskz.pages.dev](https://img.shields.io/badge/tatarskz.pages.dev-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://tatarskz.pages.dev)
 
 ## DEV projects
 
