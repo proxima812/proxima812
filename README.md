@@ -1,5 +1,9 @@
 Здравствуйте. Благодарю, спасибо.
 
+[![AstroJS](https://img.shields.io/static/v1?label=AstroJS&message=I%20really%20love%20using%20AstroJS%20%F0%9F%9A%80&color=ff5d01&style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+[![AstroJS](https://img.shields.io/static/v1?label=AstroJS&message=%D0%9E%D1%87%D0%B5%D0%BD%D1%8C%20%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20AstroJS%20%F0%9F%9A%80&color=ff5d01&style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+
+
 ## Support groups for projects
 [![unityone.space](https://img.shields.io/endpoint?url=https://unityone.space/version.json)](https://unityone.space)
 [![unityone.space](https://img.shields.io/badge/unityone.space-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://unityone.space)
