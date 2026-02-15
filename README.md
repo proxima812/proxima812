@@ -6,8 +6,9 @@
 
 ## Support groups for projects
 [![unityone.space](https://img.shields.io/endpoint?url=https://unityone.space/version.json)](https://unityone.space)
-[![diary365.vercel.app](https://img.shields.io/badge/diary365.vercel.app-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://diary365.vercel.app)
+[![unityone.space](https://img.shields.io/badge/unityone.space-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://unityone.space)
 
+[![diary365.vercel.app](https://img.shields.io/badge/diary365.vercel.app-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://diary365.vercel.app)
 [![apro.unityone.space](https://img.shields.io/badge/apro.unityone.space-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://apro.unityone.space)
 
 [![internetaddicts.ru](https://img.shields.io/badge/internetaddicts.ru-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://internetaddicts.ru/)
