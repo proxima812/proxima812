@@ -24,6 +24,8 @@
 ## TAT/BASH/KRIM projects (my hobby)
 [![tatars-kz.pages.dev](https://img.shields.io/badge/tatars-kz.pages.dev-live-00c853?style=flat-square&logo=astro&logoColor=white)](https://tatars-kz.pages.dev)
 
+https://tatars-kz.pages.dev/
+
 ## DEV projects
 
 **pagefind integration for astrojs**
