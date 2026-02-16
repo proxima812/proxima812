@@ -8,18 +8,24 @@
 
 **pagefind integration for astrojs**
 
+### astro-pagefind-proxima
+
 [![npm version](https://img.shields.io/npm/v/pagefind-proxima?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/pagefind-proxima)
 [![npm](https://img.shields.io/badge/npm-pagefind--proxima-cb0000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/pagefind-proxima)
 [![npm downloads](https://img.shields.io/npm/dm/pagefind-proxima?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/pagefind-proxima)
 [![install](https://img.shields.io/badge/install-npm%20i%20pagefind--proxima-cb0000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/pagefind-proxima)
+[![astro integration](https://img.shields.io/badge/Astro-Integration-FF5D01?logo=astro&logoColor=white)](https://astro.build)
 
 **DEV OR STATUS project versions: header, footer - integration for astrojs**
 
-[![npm version](https://img.shields.io/npm/v/@proxima812/astro-versions-proxima.svg)](https://www.npmjs.com/package/@proxima812/astro-versions-proxima)
-[![npm downloads](https://img.shields.io/npm/dm/@proxima812/astro-versions-proxima.svg)](https://www.npmjs.com/package/@proxima812/astro-versions-proxima)
-[![npm total downloads](https://img.shields.io/npm/dt/@proxima812/astro-versions-proxima.svg)](https://www.npmjs.com/package/@proxima812/astro-versions-proxima)
-[![npm bundle size](https://img.shields.io/bundlephobia/minzip/@proxima812/astro-versions-proxima)](https://bundlephobia.com/package/@proxima812/astro-versions-proxima)
-[![npm](https://img.shields.io/npm/l/@proxima812/astro-versions-proxima)](https://github.com/proxima812/astro-versions-proxima/blob/main/LICENSE)
+### astro-versions-proxima
+
+[![npm version](https://img.shields.io/npm/v/@proxima812/astro-versions-proxima?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@proxima812/astro-versions-proxima)
+[![Astro integration](https://img.shields.io/badge/Astro-Integration-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+[![Astro widget](https://img.shields.io/badge/Astro-Widget-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+[![npm downloads](https://img.shields.io/npm/dm/@proxima812/astro-versions-proxima?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@proxima812/astro-versions-proxima)
+[![install](https://img.shields.io/badge/install-npm%20i%20@proxima812/astro--versions--proxima-cb0000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@proxima812/astro-versions-proxima)
+
 
 
 ## Support groups for projects (2023-2026)
