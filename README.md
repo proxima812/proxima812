@@ -1,28 +1,25 @@
 # 🚀 Projects & Engineering Portfolio
 
-> Systems-first engineering. Focus: performance, composability, minimal runtime.
+### ❇ Developer Platforms & Experiments
 
----
+➡ **color.xima.work**  
 
-## 🧩 Core Systems (2026)
-
----
-
-### 🧪 Developer Platforms & Experiments
-
-**color.xima.work**  
-Experimental platform for developers & designers.  
+> [!TIP]
+> Experimental platform for developers & designers.  
 Focus: color systems, UI exploration, and visual tooling.
 
-🌐 https://color.xima.work  
-💻 https://github.com/proxima812/color.xima.work
+🌐 https://color.xima.work | [Github repository](https://github.com/proxima812/color.xima.work)
+
+- [ ] Add canvas create color item :tada:
 
 ---
 
-### 🔎 Astro Search Ecosystem
+### ❇ Astro Search Ecosystem
 
-**astro-pagefind-proxima**  
-High-performance full-text search layer for Astro powered by Pagefind.  
+➡ **astro-pagefind-proxima**  
+
+> [!NOTE]
+> High-performance full-text search layer for Astro powered by Pagefind.  
 Optimized for speed, indexing control, and minimal client footprint.
 
 [![npm version](https://img.shields.io/npm/v/pagefind-proxima?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/pagefind-proxima)
@@ -31,10 +28,12 @@ Optimized for speed, indexing control, and minimal client footprint.
 
 ---
 
-### 🧱 Versioning & UI Infrastructure
+### ❇ Versioning & UI Infrastructure
 
-**astro-versions-proxima**  
-Composable versioning + runtime UI injection system for Astro apps  
+➡ **astro-versions-proxima**  
+
+> [!NOTE]
+> Composable versioning + runtime UI injection system for Astro apps  
 (header/footer/status overlays, environment-aware rendering).
 
 [![npm version](https://img.shields.io/npm/v/@proxima812/astro-versions-proxima?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@proxima812/astro-versions-proxima)
@@ -43,33 +42,33 @@ Composable versioning + runtime UI injection system for Astro apps
 
 ---
 
-## 🌐 Ecosystem & Production Sites (2023–2026)
+## ❇ Ecosystem & Production Sites (2023–2026)
 
 - 🌍 [unityone.space](https://unityone.space) — Astro v5.9  
 - 🌍 [internetaddicts.ru](https://internetaddicts.ru) — Astro v4.8.2  
-- 🌍 [vdaru.ru](https://vdaru.ru) — Astro v5.8  
-- 🧱 [cgaa.ru](https://cgaa.ru) — legacy HTML  
+- ~🌍 [vdaru.ru](https://vdaru.ru) — Astro v5.8~  
+- 🌍 [cgaa.ru](https://cgaa.ru) — legacy HTML  
 
 ---
 
-## 💼 Commercial Projects (2021–2026)
+## ❇ Commercial Projects (2021–2026)
 
-- 🏨 [sutochno-moscow.ru](https://sutochno-moscow.ru) — Astro v2.4  
-- 🏨 [rabbitholehostel.ru](https://rabbitholehostel.ru) — Astro v4.8  
-- 🏨 [astana-hotel.kz](https://astana-hotel.kz) — Astro  
-- 🏨 [almatyda.kz](https://almatyda.kz) — Astro  
-
----
-
-## ✊ Public / Activism (2025–2026)
-
-- ✊ [idel-almaty.kz](https://idel-almaty.kz) — Astro v5.2  
+- [sutochno-moscow.ru](https://sutochno-moscow.ru) — Astro v2.4  
+- [rabbitholehostel.ru](https://rabbitholehostel.ru) — Astro v4.8  
+- [astana-hotel.kz](https://astana-hotel.kz) — Astro  
+- [almatyda.kz](https://almatyda.kz) — Astro  
 
 ---
 
-## 🌍 Cultural / Independent Projects (2025–2026)
+## ❇ Public / Activism (2025–2026)
 
-- 🧭 [tatars-kz.pages.dev](https://tatars-kz.pages.dev) — Astro v4  
+- [idel-almaty.kz](https://idel-almaty.kz) — Astro v5.2  
+
+---
+
+## ❇ Cultural / Independent Projects (2025–2026)
+
+- [tatars-kz.pages.dev](https://tatars-kz.pages.dev) — Astro v4  
 
 ---
 
