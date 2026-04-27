@@ -6,6 +6,19 @@
 
 ## 🧩 Core Systems (2026)
 
+---
+
+### 🧪 Developer Platforms & Experiments
+
+**color.xima.work**  
+Experimental platform for developers & designers.  
+Focus: color systems, UI exploration, and visual tooling.
+
+🌐 https://color.xima.work  
+💻 https://github.com/proxima812/color.xima.work
+
+---
+
 ### 🔎 Astro Search Ecosystem
 
 **astro-pagefind-proxima**  
@@ -64,7 +77,6 @@ Composable versioning + runtime UI injection system for Astro apps
 
 ```txt
 Astro / Tailwind v4 / TypeScript
-Supabase / Edge-first architecture
 Deploy: Vercel / Cloudflare
 Runtime: Bun
 ```
