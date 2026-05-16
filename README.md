@@ -7,27 +7,13 @@
 - Developer experience, automation, and clean deployment flows
 - Minimal client-side footprint where possible
 
----
-
-## Core Stack
-
-```txt
-Astro / TypeScript / JavaScript
-Tailwind CSS v4+
-Supabase
-Bun
-
-Deploy:
-Vercel / Cloudflare
-````
-
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
 ---
 
 # Projects & Engineering Portfolio
 
-## Developer Platforms & Experiments
+## ✦ Developer Platforms & Experiments
 
 ### color.xima.work
 
@@ -39,7 +25,7 @@ Vercel / Cloudflare
 
 ---
 
-## Astro Search Ecosystem
+## ✦ Astro Search Ecosystem
 
 ### astro-pagefind-proxima
 
@@ -52,7 +38,7 @@ Vercel / Cloudflare
 
 ---
 
-## Versioning & UI Infrastructure
+## ✦ Versioning & UI Infrastructure
 
 ### astro-versions-proxima
 
@@ -67,18 +53,16 @@ Vercel / Cloudflare
 
 # Production & Public Work
 
-## Ecosystem & Production Sites
+## ✦ Ecosystem & Production Sites
 
 | Project                                          |        Stack | Status     |
 | ------------------------------------------------ | -----------: | ---------- |
 | [unityone.space](https://unityone.space)         |   Astro v5.9 | Production |
 | [internetaddicts.ru](https://internetaddicts.ru) | Astro v4.8.2 | Production |
-| ~[vdaru.ru](https://vdaru.ru)~                   |   Astro v5.8 | Archived   |
-| [cgaa.ru](https://cgaa.ru)                       |  Legacy HTML | Production |
 
 ---
 
-## Commercial Projects
+## ✦ Commercial Projects
 
 | Project                                            |      Stack |
 | -------------------------------------------------- | ---------: |
@@ -89,7 +73,7 @@ Vercel / Cloudflare
 
 ---
 
-## Public / Activism
+## ✦ Public / Activism
 
 ### idel-almaty.kz
 
@@ -100,39 +84,10 @@ Vercel / Cloudflare
 
 ---
 
-## Cultural / Independent Projects
+## ✦ Cultural / Independent Projects
 
 ### Tatarverse
 
 > Independent cultural and digital ecosystem project.
 
 **Repository:** [https://github.com/proxima812/tatarverse](https://github.com/proxima812/tatarverse)
-
----
-
-# Principles
-
-```txt
-Typed over implicit.
-Simple over clever.
-Fast by default.
-Composable over coupled.
-Infrastructure should be boring.
-UI should be intentional.
-```
-
----
-
-# Current Direction
-
-I am building a compact Astro-centered ecosystem around:
-
-* search infrastructure
-* versioning and runtime metadata
-* UI utilities
-* cultural and independent web platforms
-* production-grade static websites
-* developer-facing tools
-
-The goal is simple: build systems that are fast, understandable, and easy to extend.
-
